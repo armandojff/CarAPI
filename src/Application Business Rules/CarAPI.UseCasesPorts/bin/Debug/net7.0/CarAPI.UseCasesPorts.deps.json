@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CarAPI.UseCasesPorts/1.0.0": {
+        "dependencies": {
+          "CarAPI.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "CarAPI.UseCasesPorts.dll": {}
+        }
+      },
+      "CarAPI.DTOs/1.0.0": {
+        "runtime": {
+          "CarAPI.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarAPI.UseCasesPorts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarAPI.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

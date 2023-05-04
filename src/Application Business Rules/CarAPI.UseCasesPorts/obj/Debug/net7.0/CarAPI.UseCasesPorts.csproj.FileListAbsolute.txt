@@ -1,0 +1,15 @@
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\bin\Debug\net7.0\CarAPI.UseCasesPorts.deps.json
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\bin\Debug\net7.0\CarAPI.UseCasesPorts.dll
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\bin\Debug\net7.0\CarAPI.UseCasesPorts.pdb
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\bin\Debug\net7.0\CarAPI.DTOs.dll
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\bin\Debug\net7.0\CarAPI.DTOs.pdb
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\CarAPI.UseCasesPorts.csproj.AssemblyReference.cache
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\CarAPI.UseCasesPorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\CarAPI.UseCasesPorts.AssemblyInfoInputs.cache
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\CarAPI.UseCasesPorts.AssemblyInfo.cs
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\CarAPI.UseCasesPorts.csproj.CoreCompileInputs.cache
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\CarAPI.UseCasesPorts.csproj.CopyComplete
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\CarAPI.UseCasesPorts.dll
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\refint\CarAPI.UseCasesPorts.dll
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\CarAPI.UseCasesPorts.pdb
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.UseCasesPorts\obj\Debug\net7.0\ref\CarAPI.UseCasesPorts.dll

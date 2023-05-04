@@ -1,0 +1,12 @@
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\bin\Debug\net7.0\CarAPI.DTOs.deps.json
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\bin\Debug\net7.0\CarAPI.DTOs.dll
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\bin\Debug\net7.0\CarAPI.DTOs.pdb
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\obj\Debug\net7.0\CarAPI.DTOs.csproj.AssemblyReference.cache
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\obj\Debug\net7.0\CarAPI.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\obj\Debug\net7.0\CarAPI.DTOs.AssemblyInfoInputs.cache
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\obj\Debug\net7.0\CarAPI.DTOs.AssemblyInfo.cs
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\obj\Debug\net7.0\CarAPI.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\obj\Debug\net7.0\CarAPI.DTOs.dll
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\obj\Debug\net7.0\refint\CarAPI.DTOs.dll
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\obj\Debug\net7.0\CarAPI.DTOs.pdb
+C:\Users\ArmandoPC\source\repos\CarAPI\CarAPI.DTOs\obj\Debug\net7.0\ref\CarAPI.DTOs.dll

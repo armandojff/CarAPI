@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ClKpiPgiqFkDghbsTT8nb6rQBJzb18Jt18ASb/wp5AwP9UYpeSdS+OKE/P5Pf7lWEJIF7H6tVOozEDd8BRHXKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ArmandoPC\\source\\repos\\CarAPI\\CarAPI.UseCases\\CarAPI.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArmandoPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
